@@ -11,8 +11,14 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
+<<<<<<< HEAD
 <DIV style="margin: 50px;">
       <H1>깃 테스트 - ipip4652</H1>
 </DIV> 
+=======
+  <DIV style="margin: 50px;">
+      <H1>깃 테스트 -> 최현종 -> </H1>
+  </DIV> 
+>>>>>>> ipip4652_branch
 </body>
 </html>
